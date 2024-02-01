@@ -22,17 +22,19 @@
     "url": "https://homesex.casa",
     "icon": "https://icons.duckduckgo.com/ip3/homesex.casa.ico",
     "slug": "another-personal-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1516,
     "timeDay": 1516,
     "timeWeek": 1516,
     "timeMonth": 1516,
     "timeYear": 1516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   }
 ]
