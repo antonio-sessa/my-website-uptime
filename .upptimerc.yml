@@ -11,8 +11,9 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  cname: status.antoniosessa.com
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /my-website-uptime
+  # baseUrl: /my-website-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: My status page
   introMessage: "[**antoniosessa.com**](https://antoniosessa.com) is my personal website, on which I use to track all relevant info of my (mostly digital) life."
