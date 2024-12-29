@@ -25,7 +25,7 @@
     "url": "https://homesex.casa",
     "icon": "https://icons.duckduckgo.com/ip3/homesex.casa.ico",
     "slug": "another-personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 606,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2024-12-29": 0,
       "2024-12-03": 29,
       "2024-10-06": 29,
       "2024-09-27": 262,
