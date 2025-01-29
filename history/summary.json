@@ -4,7 +4,7 @@
     "url": "https://antoniosessa.com",
     "icon": "https://icons.duckduckgo.com/ip3/antoniosessa.com.ico",
     "slug": "my-personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 156,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-12-03": 29,
       "2024-10-22": 26
     }
@@ -29,7 +30,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "85.77%",
+    "uptimeMonth": "87.73%",
     "uptimeYear": "98.67%",
     "time": 679,
     "timeDay": 629,
